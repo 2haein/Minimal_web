@@ -1,0 +1,20 @@
+.social a {
+  display: inline-block;
+  background: url(sns.png) no-repeat;
+  width: 33px;
+  height: 33px;
+  text-indent: -9999em;
+  margin-right: 21px;
+}
+
+.social a.facebook {
+  background-position: 0 0;
+}
+
+.social a.youtube {
+  background-position: -57px 0;
+}
+
+.social a.naver_blog {
+  background-position: 100% 0;
+}
